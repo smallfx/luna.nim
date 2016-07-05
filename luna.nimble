@@ -1,6 +1,6 @@
 # Package
 
-name          = "luna.nim"
+name          = "luna"
 version       = "0.1.0"
 author        = "Jackson Broussard"
 description   = "Lua convenience library for nim"

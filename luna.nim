@@ -1,6 +1,6 @@
 # luna.nim is a convenience library for implementing Lua scripting in the nim language.
 #
-# Copyright (c) 201 Jackson Broussard
+# Copyright (c) 2016 Jackson Broussard
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
