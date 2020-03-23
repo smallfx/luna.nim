@@ -63,7 +63,7 @@ let lv1 = LuaVal(kind: LVNumber, n: 3)
 let lv2 = LuaVal(kind: LVNumber, n: 4)
 let lua_value: LuaVal = callLuaFunc(L, "sum_values", [lv1, lv2])
 
-echo stingifyLuaVal(lua_value)
+echo stringifyLuaVal(lua_value)
 ```
 
 output:
